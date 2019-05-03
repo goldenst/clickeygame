@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Gummy Bears",
+    "image": "/images/gummy.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Lollipop",
+    "image": "/images/lollipop.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "M & M's",
+    "image": "/images/m&m.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Candy Canes",
+    "image": "/images/candycane.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Chocolate",
+    "image": "/images/chocolate.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Peppermints",
+    "image": "/images/peppermint.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Hot Tamales",
+    "image": "/images/hottamales.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Lemonheads",
+    "image": "/images/lemonhead.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Gum Drops",
+    "image": "/images/gumdrop.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Hershey's Kiss",
+    "image": "/images/kiss.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Purple Hershey's Kisses",
+    "image": "/images/lotsokisses.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Chocolate Shavings",
+    "image": "/images/curlychoc.png",
+    "count": 0
+  }
+]
