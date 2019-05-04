@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Car 1",
+    "image": "/images/1.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "car 2",
+    "image": "/images/2.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Dale Earnhart",
+    "image": "/images/3.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Terry Labonte",
+    "image": "/images/5.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Mark Martin",
+    "image": "/images/6.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Earnhart Jr",
+    "image": "/images/8.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "car 9",
+    "image": "/images/9.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "13",
+    "image": "/images/13.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "car 22",
+    "image": "/images/22.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Jimmy Jhonson",
+    "image": "/images/48.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "car 29",
+    "image": "/images/61.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "99",
+    "image": "/images/99.jpg",
+    "count": 0
+  }
+]
